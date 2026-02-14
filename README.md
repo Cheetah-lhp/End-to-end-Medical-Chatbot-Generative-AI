@@ -41,7 +41,7 @@ python app.py
 ```
 Now,
 ```bash
-open up localhost:
+open up localhost:8080
 ```
 
 ### Techstack Used:
@@ -110,9 +110,9 @@ open up localhost:
 
 ## 7. Setup github secrets:
 
-    - AWS_ACCESS_KEY_ID
-    - AWS_SECRET_ACCESS_KEY
-    - AWS_DEFAULT_REGION
-    - ECR_REPO
-    - PINECONE_API_KEY
-    - OPENAI_API_KEY
+- AWS_ACCESS_KEY_ID
+- AWS_SECRET_ACCESS_KEY
+- AWS_DEFAULT_REGION
+- ECR_REPO
+- PINECONE_API_KEY
+- OPENAI_API_KEY
