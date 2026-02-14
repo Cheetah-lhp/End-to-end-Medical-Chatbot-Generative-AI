@@ -43,3 +43,10 @@ Now,
 ```bash
 open up localhost:
 ```
+
+### Techstack Used:
+- Python
+- LangChain
+- Flask
+- Gemini
+- PineCone
