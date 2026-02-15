@@ -1,7 +1,8 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 
-<img width="928" height="502" alt="image" src="https://github.com/user-attachments/assets/d7887df8-d81f-4075-8324-e725e41e02da" />
-<img width="928" height="502" alt="image" src="https://github.com/user-attachments/assets/d7887df8-d81f-4075-8324-e725e41e02da" />
+<img width="1218" height="640" alt="image" src="https://github.com/user-attachments/assets/937251ec-35af-4c54-bfb3-c4452f8e4ee9" />
+
+<img width="1167" height="458" alt="image" src="https://github.com/user-attachments/assets/4049872e-672c-48b6-8e61-8328cedf295f" />
 
 # How to run ?
 ### STEPS:
