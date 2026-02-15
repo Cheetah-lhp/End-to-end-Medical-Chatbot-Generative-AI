@@ -17,7 +17,7 @@ This repository features a career-boosting project focused on building a scalabl
 <img width="800" height="421" alt="image" src="https://github.com/user-attachments/assets/4049872e-672c-48b6-8e61-8328cedf295f" />
 
 
-# How to run ?
+# How to run on localhost?
 ### STEPS:
 
 Clone the repository
@@ -58,7 +58,7 @@ python app.py
 ```
 Now,
 ```bash
-open up localhost:8080
+open up web browser: localhost:8080
 ```
 
 ### Techstack Used:
@@ -133,3 +133,5 @@ open up localhost:8080
 - ECR_REPO
 - PINECONE_API_KEY
 - OPENAI_API_KEY
+  
+Reference: https://www.youtube.com/watch?v=CXKMfYX62_8&t=3999s
