@@ -1,8 +1,21 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# 🏥 Medical AI Chatbot (End-to-End RAG Application).
+This repository features a career-boosting project focused on building a scalable, professional Medical AI Chatbot. Utilizing a custom medical dataset and Retrieval-Augmented Generation (RAG).
 
-<img width="1218" height="640" alt="image" src="https://github.com/user-attachments/assets/937251ec-35af-4c54-bfb3-c4452f8e4ee9" />
+<img width="1000" height="527" alt="image" src="https://github.com/user-attachments/assets/f724adfd-3909-4df3-84ff-d2acc2d74fdd" />
 
-<img width="1167" height="458" alt="image" src="https://github.com/user-attachments/assets/4049872e-672c-48b6-8e61-8328cedf295f" />
+## Key Features
+- Advanced AI Architecture: Master the creation of a chatbot using Python, custom medical data, and Large Language Models (LLMs).
+
+- Semantic Search: Implementation of high-performance semantic search using Pinecone vector databases and vector embeddings.
+
+- Web Framework: A user-friendly web interface built with Flask to handle real-time medical queries.
+
+- Deployment: Step-by-step masterclass on deploying applications using AWS, Docker, and automated CI/CD pipelines.
+
+- Scalable Design: Best practices for creating a modular, scalable architecture suitable for professional portfolios.
+
+<img width="800" height="421" alt="image" src="https://github.com/user-attachments/assets/4049872e-672c-48b6-8e61-8328cedf295f" />
+
 
 # How to run ?
 ### STEPS:
